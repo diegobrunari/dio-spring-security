@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/dio-spring-security-java/bruno.json
+/dio-spring-security-java/Users.bru
